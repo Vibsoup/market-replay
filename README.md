@@ -1,13 +1,14 @@
-# Market Replay
+## market reply
 
 Educational Rust and React market microstructure replay prototype. Uses a small **synthetic** BTC/USD level-2 event dataset. It is not a live trading bot, and does not place trades.
 
-## Prerequisites
+##Prereq
 
 - Rust and Cargo
 - Node.js and npm
 
-## Run on Fedora (fish shell)
+## Run on Fedora (i use fish shell)
+open 2 terminals:
 
 Terminal 1:
 
